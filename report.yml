@@ -6,6 +6,6 @@ grade:
   - subject: Math
     grade: A
   - subject: English
-    grade: B
+    grade: E
   - subject: Science
     grade: A+
